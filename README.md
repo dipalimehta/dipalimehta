@@ -1,23 +1,15 @@
-### Hi there 👋
-
-
-- 🔭 Currently shaping actionable strategies at Blackstraw, leveraging 2.2 years of data science experience.
-- 🌱 Exploring advanced techniques in ML, DL, NLP, and computer vision.
-- 👯 Open to collaborations on impactful data science projects.
-- 🤔 Seeking insights and knowledge sharing to stay updated on the latest trends.
-- 💬 Ask me about optimizing marketing campaigns, predicting customer behavior, and streamlining processes.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dipalivmehta/).
-- 😄 Pronouns: She/Her
-- ⚡ Dedicated to transforming the world through data and innovation!
-
 # Hello, World! 👋
 
-I'm [Your Name], a passionate Data Scientist 📊 and enthusiast in all things tech. Welcome to my GitHub profile!
+I'm Dipali Mehta, a passionate Data Scientist 📊 and enthusiast in all things tech. Welcome to my GitHub profile!
 
 ## About Me
-- 👨‍💻 Data Scientist with a focus on [your main area of expertise].
+- 👨‍💻 Data Scientist with a focus on ML, DL, NLP, CV, Python, R, SQL, etc.
 - 🌐 Always exploring new technologies and tools to enhance my skills.
 - 📈 Love turning data into actionable insights.
+- 🔭 Currently shaping actionable strategies at Blackstraw, leveraging 2.2 years of data science experience.
+- 👯 Open to collaborations on impactful data science projects.
+- 🤔 Seeking insights and knowledge sharing to stay updated on the latest trends.
+- 😄 Pronouns: She/Her
 
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -28,16 +20,11 @@ I'm [Your Name], a passionate Data Scientist 📊 and enthusiast in all things t
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-9ACD32?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Projects
-Here are some of my notable projects:
-- [Project 1 Name](link)
-- [Project 2 Name](link)
-- [Project 3 Name](link)
 
 ## Let's Connect
 - 📧 Email: your.email@example.com
 - 🔗 LinkedIn: [Your LinkedIn Profile](linkedin.com/in/your-profile)
-- 🌐 Portfolio: [Your Portfolio](your-portfolio-link)
+- 🌐 Portfolio: [Your Portfolio]((https://dipalimehta.github.io/Portfolio/))
 
 ## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,issues&theme=dark)
