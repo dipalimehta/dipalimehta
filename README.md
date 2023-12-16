@@ -64,7 +64,7 @@ I'm Dipali Mehta, a passionate Data Scientist 📊 and enthusiast in all things 
 ## Let's Connect
 - 📧 Email: dipalivinodmehta@gmail.com
 - 🔗 LinkedIn: ([Linkedin Profile](https://www.linkedin.com/in/dipalivmehta/))
-- 🌐 Portfolio: ([My Portfolio]((https://dipalimehta.github.io/Portfolio/)))
+- 🌐 Portfolio: https://dipalimehta.github.io/Portfolio/
 
 ## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,issues&theme=dark)
