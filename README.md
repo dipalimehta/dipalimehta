@@ -67,7 +67,8 @@ I'm Dipali Mehta, a passionate Data Scientist 📊 and enthusiast in all things 
 - 🌐 Portfolio: https://dipalimehta.github.io/Portfolio/
 
 ## Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,issues&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dipalimehta)](https://git.io/streak-stats)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipalimehta&show_icons=true&hide=contribs,issues&theme=dark)
 
 ## 🚀 Happy Coding!
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
