@@ -66,8 +66,8 @@ I'm Dipali Mehta, a passionate Data Scientist 📊 and enthusiast in all things 
 - 🔗 LinkedIn: ([Linkedin Profile](https://www.linkedin.com/in/dipalivmehta/))
 - 🌐 Portfolio: https://dipalimehta.github.io/Portfolio/
 
-## Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipalimehta&show_icons=true&hide=contribs,issues&theme=dark)
+<!--## Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipalimehta&show_icons=true&hide=contribs,issues&theme=dark)-->
 
 ## 🚀 Happy Coding!
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
