@@ -5,7 +5,7 @@ I am a **Data Scientist** with **4.5 years of experience** specializing in build
 ---
 
 ### 👨‍💻 Professional Summary
-- 🔭 **Currently:** Senior Data Scientist at **Blackstraw**, architecting advanced ML & NLP strategies.
+- 🔭 **Currently:** Data Scientist who is architecting advanced ML & NLP strategies.
 - 🏗️ **Expertise:** End-to-End MLOps, System Design, Computer Vision, and Predictive Modeling.
 - 📈 **Impact:** 4.5 years of proven track record in turning complex datasets into scalable business value.
 - 👯 **Collaborations:** Open to leading high-impact open-source or commercial Data Science initiatives.
