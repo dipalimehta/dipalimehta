@@ -26,14 +26,6 @@ I am a **Data Scientist** with **4.5 years of experience** specializing in build
 
 ---
 
-### 📊 Professional Metrics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=dipalimehta&show_icons=true&theme=dark&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipalimehta&layout=compact&theme=dark&hide_border=true" width="45%" />
-</p>
-
----
-
 ### 📫 Connect with Me
 - 📧 **Email:** dipalivinodmehta@gmail.com
 - 🔗 **LinkedIn:** [dipalivmehta](https://www.linkedin.com/in/dipalivmehta/)
